@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Get_Programming_With_Go/Lesson_3_Loops_and_Branches/Experiment.md",
+                "file": "Get_Programming_With_Go/Lesson_4_Variable_Escope/4.2 Short Declaration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Experiment"
+              "title": "4.2 Short Declaration"
             }
           }
         ]
@@ -174,7 +174,10 @@
   },
   "active": "2f0562f95893e761",
   "lastOpenFiles": [
-    "Get_Programming_With_Go/Lesson_3_Loops_and_Branches/3 Loops e Branches.md",
+    "Get_Programming_With_Go/Lesson_4_Variable_Escope/4.1 Looking into scope.md",
+    "Get_Programming_With_Go/Lesson_4_Variable_Escope/4.2 Short Declaration.md",
+    "Get_Programming_With_Go/Lesson_3_Loops_and_Branches/Loops e Branches.md",
+    "Get_Programming_With_Go/Lesson_4_Variable_Escope",
     "Get_Programming_With_Go/Lesson_3_Loops_and_Branches/Experiment.md",
     "Untitled.md",
     "Get_Programming_With_Go/Lesson_3_Loops_and_Branches",
