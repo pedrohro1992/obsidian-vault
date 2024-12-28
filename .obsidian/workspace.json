@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Get_Programming_With_Go/Lesson_4_Variable_Escope/4.3 Narrow scope, wide scope.md",
+                "file": "Books/Get_Programming_With_Go/Lesson_5_Challenge_1/Capstone - Ticket to Mars.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.3 Narrow scope, wide scope"
+              "title": "Capstone - Ticket to Mars"
             }
           }
         ],
@@ -187,18 +187,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a5c0d455dcb34cb",
+  "active": "3f0f8fdc9178fce2",
   "lastOpenFiles": [
+    "Books/Get_Programming_With_Go/Lesson_4_Variable_Escope/4.2 Short Declaration.md",
+    "Books/Get_Programming_With_Go/Lesson_5_Challenge_1/Capstone - Ticket to Mars.md",
+    "Books/Get_Programming_With_Go/Lesson_5_Challenge_1",
+    "Books",
+    "Books/Get_Programming_With_Go/Lesson_3_Loops_and_Branches/Loops e Branches.md",
+    "Books/Get_Programming_With_Go/Lesson_4_Variable_Escope/Experiment.md",
+    "Books/Get_Programming_With_Go/Lesson_4_Variable_Escope/4.3 Narrow scope, wide scope.md",
     "Misc/Instalacao do zero do LazyVim.md",
-    "Get_Programming_With_Go/Lesson_4_Variable_Escope/4.3 Narrow scope, wide scope.md",
-    "Get_Programming_With_Go/Lesson_4_Variable_Escope/4.2 Short Declaration.md",
     "Misc",
-    "Get_Programming_With_Go/Lesson_4_Variable_Escope/4.1 Looking into scope.md",
-    "Get_Programming_With_Go/Lesson_3_Loops_and_Branches/Loops e Branches.md",
-    "Get_Programming_With_Go/Lesson_4_Variable_Escope",
-    "Get_Programming_With_Go/Lesson_3_Loops_and_Branches/Experiment.md",
-    "Get_Programming_With_Go/Lesson_3_Loops_and_Branches",
-    "Get_Programming_With_Go",
+    "Books/Get_Programming_With_Go/Lesson_4_Variable_Escope/4.1 Looking into scope.md",
+    "Books/Get_Programming_With_Go/Lesson_4_Variable_Escope",
+    "Books/Get_Programming_With_Go/Lesson_3_Loops_and_Branches/Experiment.md",
+    "Books/Get_Programming_With_Go/Lesson_3_Loops_and_Branches",
+    "Books/Get_Programming_With_Go",
     "Welcome.md"
   ]
 }
