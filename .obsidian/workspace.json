@@ -20,8 +20,22 @@
               "icon": "lucide-file",
               "title": "Experiment"
             }
+          },
+          {
+            "id": "4b3c4d890cc9005e",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,10 +186,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a5c0d455dcb34cb",
+  "active": "4b3c4d890cc9005e",
   "lastOpenFiles": [
-    "Misc/NeoVim/Instalacao do zero do LazyVim.md",
+    "conflict-files-obsidian-git.md",
     "Books/Get_Programming_With_Go/Unity_2_Types/Lesson_8_Big_Numbers/Experiment.md",
+    "Misc/NeoVim/Instalacao do zero do LazyVim.md",
     "Misc/NeoVim",
     "Books/Get_Programming_With_Go/Unity_2_Types/Lesson_8_Big_Numbers/8.3 Constants of unsial size.md",
     "Books/Get_Programming_With_Go/Unity_2_Types/Lesson_8_Big_Numbers/8.1 Hitting the ceiling.md",
