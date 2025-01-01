@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Get_Programming_With_Go/Unity_2_Types/Lesson_9_Multilingual_Text/9.5 Decoding strings into runes.md",
+                "file": "Books/Get_Programming_With_Go/Unity_2_Types/Lesson_9_Multilingual_Text/Experiment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9.5 Decoding strings into runes"
+              "title": "Experiment"
             }
           }
         ]
@@ -172,10 +172,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a5c0d455dcb34cb",
+  "active": "3f0f8fdc9178fce2",
   "lastOpenFiles": [
     "Books/Get_Programming_With_Go/Unity_2_Types/Lesson_9_Multilingual_Text/9.4 Manipulating characters with Caesar cipher.md",
     "Books/Get_Programming_With_Go/Unity_2_Types/Lesson_9_Multilingual_Text/9.5 Decoding strings into runes.md",
+    "Books/Get_Programming_With_Go/Unity_2_Types/Lesson_9_Multilingual_Text/Experiment.md",
     "Books/Get_Programming_With_Go/Unity_2_Types/Lesson_9_Multilingual_Text/9.1 Declaring string variables.md",
     "Books/Get_Programming_With_Go/Unity_2_Types/Lesson_8_Big_Numbers/8.3 Constants of unsial size.md",
     "Books/Get_Programming_With_Go/Unity_2_Types/Lesson_8_Big_Numbers/Experiment.md",
@@ -211,7 +212,6 @@
     "Books/Get_Programming_With_Go/Unity_2_Types/Lesson_6_Real_Numbers",
     "Books/Get_Programming_With_Go/Unit_1_Imperative_Programming/Lesson_4_Variable_Escope/4.2 Short Declaration.md",
     "Books/Get_Programming_With_Go/Unit_1_Imperative_Programming/Lesson_5_Challenge_1",
-    "Books/Get_Programming_With_Go/Unit_1_Imperative_Programming/Lesson_3_Loops_and_Branches/Loops e Branches.md",
-    "Books/Get_Programming_With_Go/Unit_1_Imperative_Programming/Lesson_4_Variable_Escope/Experiment.md"
+    "Books/Get_Programming_With_Go/Unit_1_Imperative_Programming/Lesson_3_Loops_and_Branches/Loops e Branches.md"
   ]
 }
