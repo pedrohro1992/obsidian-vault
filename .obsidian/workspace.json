@@ -11,14 +11,13 @@
             "id": "2a5c0d455dcb34cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Misc/NeoVim/Instalacao do zero do LazyVim.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               },
-              "icon": "lucide-file",
-              "title": "Instalacao do zero do LazyVim"
+              "icon": "git-pull-request",
+              "title": "Diff View (workspace.json)"
             }
           }
         ]
@@ -159,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,8 +172,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a5c0d455dcb34cb",
+  "active": "3f0f8fdc9178fce2",
   "lastOpenFiles": [
+    "Misc/NeoVim/Instalacao do zero do LazyVim.md",
     "Misc/NeoVim",
     "Books/Get_Programming_With_Go/Unity_2_Types/Lesson_8_Big_Numbers/8.3 Constants of unsial size.md",
     "Books/Get_Programming_With_Go/Unity_2_Types/Lesson_8_Big_Numbers/8.1 Hitting the ceiling.md",
@@ -188,7 +189,7 @@
     "Misc/Assets/Get_Programming_With_Go/Pasted image 20241229120651.png",
     "Books/Get_Programming_With_Go/Unity_2_Types/Lesson_7_Whole_Numbers/7.2 The uint8 type for 8-bit colors.md",
     "Misc/Assets",
-    "Misc/NeoVim/Instalacao do zero do LazyVim.md",
+    "Misc/Instalacao do zero do LazyVim.md",
     "Books/Get_Programming_With_Go/Unity_2_Types/Lesson_7_Whole_Numbers",
     "Books/Get_Programming_With_Go/Unity_2_Types/Lesson_6_Real_Numbers/6.2 Displaying floating-point types.md",
     "Books/Get_Programming_With_Go/Unity_2_Types/Lesson_6_Real_Numbers/6.4 Comparing floating-point numbers.md",
@@ -207,7 +208,6 @@
     "Books/Get_Programming_With_Go/Unit_1_Imperative_Programming/Lesson_3_Loops_and_Branches/Loops e Branches.md",
     "Books/Get_Programming_With_Go/Unit_1_Imperative_Programming/Lesson_4_Variable_Escope/Experiment.md",
     "Books/Get_Programming_With_Go/Unit_1_Imperative_Programming/Lesson_4_Variable_Escope/4.3 Narrow scope, wide scope.md",
-    "Misc",
     "Books/Get_Programming_With_Go/Unit_1_Imperative_Programming/Lesson_4_Variable_Escope/4.1 Looking into scope.md",
     "Books/Get_Programming_With_Go/Unit_1_Imperative_Programming/Lesson_3_Loops_and_Branches/Experiment.md",
     "Welcome.md"
